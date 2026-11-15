@@ -1,7 +1,7 @@
 .header {
 }
 .header .logo {
-  color: var(--navy-blue);
+  color: #2e2f42;
 }
 .header__nav {
 }
@@ -11,12 +11,12 @@
 }
 .header__link {
   font-weight: 500;
-  color: var(--navy-blue);
+  color: #2e2f42;
 }
 .header__link:hover,
 .header__link:focus,
 .header__link:active {
-  color: var(--ocean);
+  color: #404bbf;
 }
 .header__address {
 }
@@ -29,5 +29,5 @@
 .header__contact-link:hover,
 .header__contact-link:focus,
 .header__contact-link:active {
-  color: var(--ocean);
+  color: #404bbf;
 }

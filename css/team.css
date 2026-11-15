@@ -1,11 +1,12 @@
 .team {
-  background: var(--cloud);
+  background: #f4f4fd;
 }
 .team__title {
 }
 .team__list {
 }
 .team__list-item {
+  background: #fff;
 }
 .team__img {
 }
