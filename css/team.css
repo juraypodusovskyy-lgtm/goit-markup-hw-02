@@ -1,0 +1,17 @@
+.team {
+  background: var(--cloud);
+}
+.team__title {
+}
+.team__list {
+}
+.team__list-item {
+}
+.team__img {
+}
+.team__subtitle {
+  text-align: center;
+}
+.team__desc {
+  text-align: center;
+}

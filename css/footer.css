@@ -1,0 +1,9 @@
+.footer {
+  background: var(--navy-blue);
+}
+.footer__logo {
+  color: var(--cloud);
+}
+.footer__desc {
+  color: var(--cloud);
+}

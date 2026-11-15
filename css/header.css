@@ -1,0 +1,33 @@
+.header {
+}
+.header .logo {
+  color: var(--navy-blue);
+}
+.header__nav {
+}
+.header__list {
+}
+.header__item {
+}
+.header__link {
+  font-weight: 500;
+  color: var(--navy-blue);
+}
+.header__link:hover,
+.header__link:focus,
+.header__link:active {
+  color: var(--ocean);
+}
+.header__address {
+}
+.header__contacts {
+}
+.header__contact {
+}
+.header__contact-link {
+}
+.header__contact-link:hover,
+.header__contact-link:focus,
+.header__contact-link:active {
+  color: var(--ocean);
+}

@@ -1,0 +1,14 @@
+.hero {
+  background: var(--navy-blue);
+}
+.hero__title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: var(--white);
+}
+.hero__button {
+  background: var(--iris);
+}
